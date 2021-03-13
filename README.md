@@ -1,3 +1,2 @@
 # Weltformel
-da kann man alles mit einstufen
-ok
+momentan werden bei ausführung 18 millionen menschen inklusive die vier wichtigsten eingestuft
